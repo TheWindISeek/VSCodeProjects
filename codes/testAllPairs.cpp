@@ -40,7 +40,7 @@ void main(void)
    // create a graph of each adjacency weighted type
    adjacencyWDigraph<int> *g[numberOfTypes];
    const int n = 5;
-   const noEdge = 100;
+   const int noEdge = 100;
    g[0] = new adjacencyWGraph<int>(n, noEdge);
    g[1] = new adjacencyWDigraph<int>(n, noEdge);
 
