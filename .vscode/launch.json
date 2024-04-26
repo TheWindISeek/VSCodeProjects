@@ -29,8 +29,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "f:/VSCodeProject/Output",
-      "program": "f:/VSCodeProject/Output/build/Debug/outDebug",
+      "cwd": "f:/VSCodeProject/Fun",
+      "program": "f:/VSCodeProject/Fun/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
